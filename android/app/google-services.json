@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775995664739",
+    "project_id": "loginassement",
+    "storage_bucket": "loginassement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775995664739:android:6819087ce5108e38414b56",
+        "android_client_info": {
+          "package_name": "com.example.loginassessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775995664739-o3b6n1q13m8j3mvbr182creg89gsg4ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDei0M6d7NlRw6Q-d9rDZ1d1qeYfoYW_J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775995664739-o3b6n1q13m8j3mvbr182creg89gsg4ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
